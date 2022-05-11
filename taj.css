@@ -1,0 +1,576 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.header1{
+	width: 140px;
+	height: 50px;
+	background: white;
+}
+#logo{
+	width: 60px;
+    height: 38px;
+    padding-left: 78px;
+    margin-top: 9px;
+
+}
+
+.head1 {
+	width: 1224px;
+    height: 49px;
+    margin-left: 140px;
+    margin-top: -51px;
+    background: white;
+}
+
+
+.heading{
+	font-size: 15px;
+    padding-left: 12px;
+    font-family: monospace;
+}
+
+#button1{
+	width: 105px;
+    height: 32px;
+    background: linear-gradient(to top, #7b5519, #aa7938 52%, #d29851);
+    padding-top: -5px;
+    margin-top: -9px;
+    margin-left: 55px;
+    color: white;
+    border: 0px;
+    font-size: 12px;
+}
+
+#flag{
+	width: 30px;
+    height: 12px;
+    margin-left: 3px;
+}
+
+#dropdown{
+	font-size: 12px;
+    width: 42px;
+    margin-top: -12px;
+    padding-top: 4px;
+    border: 0px;
+    font-family: emoji;
+
+}
+
+#dropdown img{
+	width: 80px;
+	height: 30px;
+}
+
+#heading{
+	font-size: 15px;
+    padding-left: 12px;
+    font-family: monospace;
+    margin-left: -6px;
+}
+
+.header2{
+	width: 100%;
+	height: 500px;
+	background: orange;
+	background: url(../image/tajbanner.png);
+	background-size: cover;
+}
+
+#font{
+	font-size: -webkit-xxx-large;
+    padding-top: 169px;
+    color: white;
+	font-family: floodstd;
+}
+
+#button2{
+	background: linear-gradient(to top, #7b5519, #aa7938 52%, #d29851);
+    width: 127px;
+    height: 38px;
+    margin-top: 31px;
+    color: white;
+    border: 0px;
+
+}
+
+.header2 input{
+    width: 593px;
+    height: 53px;
+    font-size: 20px;
+    color: white;
+    background: #201d1d33;
+    border: 0px;
+}
+
+#button3{
+	margin-top: 132px;
+    background: #201d1d5e;
+    color: grey;
+    border-left-width: 10px;
+    border-left-color: #7b5519;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    background-attachment: fixed;
+}
+
+.header2 i{
+	width: 35px;
+    background: #201d1d5e;
+    color: grey;
+}
+
+.header3{
+	width: 100%;
+	height: 750px;
+	background: ghostwhite;
+}
+
+.header3 h2{
+	color: black;
+    font-size: 34px;
+    margin-left: 62px;
+    padding-top: 77px;
+}
+
+#line{
+	width: 121px;
+    height: 4px;
+    background: #aa7938;
+    border: 0px;
+}
+
+.image{
+    width: 411px;
+    height: 572px;
+    background: white;
+    float: left;
+    margin-left: 34px;
+    margin-top: 41px;
+}
+
+.image img{
+	width: 411px;
+    height: 355px;
+    margin-top: 54px;
+}
+.image h3{
+	font-size: 27px;
+    margin-top: 14px;
+    font-family: sans-serif;
+    margin-left: 19px;
+}
+
+.image h4{
+    margin-left: 230px;
+    font-size: 17px;
+    margin-top: -20px;
+
+}
+
+.image h5{
+    font-size: 16px;
+    margin-left: 18px;
+    font-family: math;
+    width: 201px;
+}
+
+.image button{
+    width: 126px;
+    height: 33px;
+    margin-left: 233px;
+    margin-top: -75px;
+    background: linear-gradient(to top, #7b5519, #aa7938 52%, #d29851);
+    border: 0px;
+}
+
+#one{
+    width: 200px;
+    height: 50px;
+
+}
+#two{
+    margin-top: -35px;
+    width: 22px;
+}
+
+.header4{
+    width: 100%;
+    height: 650px;
+    background: whitesmoke;
+}
+
+#line2{
+    width: 121px;
+    height: 4px;
+    background: #aa7938;
+    border: 0px;
+}
+
+.header4 h2{
+    color: black;
+    font-size: 34px;
+    margin-left: 62px;
+    padding-top: 77px;
+}
+
+.image2{
+    width: 300px;
+    height: 470px;
+    background: white;
+    float: left;
+    margin-left: 34px;
+    margin-top: 41px;
+}
+
+.image2 img{
+    width: 300px;
+    height: 396px;
+    margin-top: 12px;
+}
+
+#two{
+    margin-top: -50px;
+    width: 22px;
+    }
+
+.image2 button{
+    width: 126px;
+    height: 33px;
+    margin-left: 169px;
+    margin-top: -75px;
+    background: linear-gradient(to top, #7b5519, #aa7938 52%, #d29851);
+    border: 0px;
+}
+
+#one{
+    width: 200px;
+    height: 50px;
+}
+
+.image2 h3{
+    font-size: 17px;
+    margin-left: 18px;
+    font-family: math;
+    width: 201px;
+    margin-top: 16px;
+}
+
+.header5{
+    width: 100%;
+    height: 850px;
+    background: white;
+}
+
+#line3{
+    width: 121px;
+    height: 4px;
+    background: #aa7938;
+    border: 0px;
+}
+
+.header5 h2{
+    color: black;
+    font-size: 34px;
+    margin-left: 62px;
+    padding-top: 77px;
+}
+
+.image3{
+    width: 395px;
+    height: 690px;
+    background: floralwhite;
+    float: left;
+    margin-left: 40px;
+    margin-top: 36px;
+}
+
+#three{
+    width: 395px;
+    height: 476px;
+
+}
+
+#four{
+    width: 125px;
+    height: 57px;
+    margin-left: 125px;
+    margin-top: 27px;
+}
+
+#five{
+    margin-top: 17px;
+    font-family: monospace;
+    font-size: 14px;
+
+}
+
+#two{
+    margin-top: -49px;
+    width: 22px;
+    }
+
+.image3 button{
+    width: 126px;
+    height: 33px;
+    margin-left: 247px;
+    margin-top: -75px;
+    background: linear-gradient(to top, #7b5519, #aa7938 52%, #d29851);
+    border: 0px;
+}
+
+#twoo{
+     margin-top: 20px;
+    width: 22px;
+}
+
+#unique{
+    margin-top: 0px;
+    width: 22px;
+    }
+
+.image3 button{
+    width: 126px;
+    height: 33px;
+    margin-left: 247px;
+    margin-top: -75px;
+    background: linear-gradient(to top, #7b5519, #aa7938 52%, #d29851);
+    border: 0px;
+}
+
+#uniquee{
+    margin-top: 29px;
+    width: 22px;
+}
+
+#fourr{
+    margin-left: 85px;
+    margin-top: 11px;
+    width: 209px;
+    height: 77px;
+}
+
+.header6{
+    width: 100%;
+    height: 750px;
+    background: white;
+}
+
+
+.header6 h2{
+    color: black;
+    font-size: 34px;
+    margin-left: 62px;
+    padding-top: 77px;
+}
+
+
+.image4{
+    width: 565px;
+    height: 600px;
+    background: whitesmoke;
+    float: left;
+    margin-left: 62px;
+    margin-top: 20px;
+}
+
+.image4 i{
+    color: #d29851;
+    font-size: 20px;
+    width: 25px;
+    margin-left: 176px;
+    margin-top: 12px;
+}
+
+.image4 h5{
+    font-size: 21px;
+    margin-left: 213px;
+    margin-top: -24px;
+    font-family: serif;
+}
+
+.image4 img{
+    width: 564px;
+    margin-top: 20px;
+    height: 401px;
+}
+
+.text{
+    margin-left: 20px;
+    font-size: 25px;
+    margin-top: 33px;
+}
+
+.text a{
+    font-size: 17px;
+}
+
+.image4 button{
+    width: 126px;
+    height: 33px;
+    margin-left: 247px;
+    margin-top: -75px;
+    background: linear-gradient(to top, #7b5519, #aa7938 52%, #d29851);
+    border: 0px;
+}
+
+#twooo{
+    margin-left: 161px;
+    margin-top: -28px;
+
+}
+
+#twoooo{
+    margin-left: 161px;
+    margin-top: 5px;
+
+}
+
+.header7{
+    width: 100%;
+    height: 490px;
+    background: white;
+}
+
+.header7 p{
+    font-size: 16px;
+    margin-left: 85px;
+    padding-top: 44px;
+    margin-top: 40px;
+}
+
+#plus{
+    color: #d29851;
+    margin-left: 190px;
+    margin-top: -16px;
+}
+
+.header7 hr{
+    color: grey;
+    width: 1202px;
+    margin-left: 65px;
+    border: 1px inset;
+    border-bottom-color: grey;
+    margin-top: 13px;
+}
+
+.end{
+    width: 259px;
+    height: 262px;
+    background: white;
+    float: left;
+    margin-left: 46px;
+    margin-top: 26px;
+}
+
+.firstdiv{
+    font-size: 16px;
+    margin-left: 30px;
+
+}
+
+.plus{
+     color: #d29851;
+    margin-left: 158px;
+    margin-top: -16px;
+}
+
+.end2{
+    width: 246px;
+    height: 262px;
+    background: white;
+    float: left;
+    margin-left: 345px;
+    margin-top: -384px;
+}
+
+.end3{
+    width: 246px;
+    height: 262px;
+    background: white;
+    float: left;
+    margin-left: 631px;
+    margin-top: -384px;
+
+}
+
+
+.end4{
+ width: 263px;
+    height: 262px;
+    background: white;
+    float: right;
+    margin-right: 169px;
+    margin-top: -384px;
+}
+
+#but{
+    margin-left: 24px;
+    width: 130px;
+    height: 29px;
+    font-size: 16px;
+    background: #cd881b;
+    border: 0px;
+    color: white;
+    font-family: revert;
+    font-weight: bold;
+}
+
+.end4 img{
+    border-radius: 28px;
+    width: 39px;
+    height: 40px;
+    margin-left: 3px;
+
+}
+
+#hori{
+    color: grey;
+    width: 1202px;
+    margin-left: 65px;
+    border: 1px inset;
+    border-bottom-color: grey;
+    margin-top: -94px;
+}
+
+.header8{
+    width: 100%;
+    height: 100px;
+    background: white;
+}
+
+.header8 img{
+    width: 131px;
+    height: 34px;
+    margin-top: 8px;
+    margin-left: 66px;
+}
+
+#new{
+        margin-left: 66px;
+        font-size: 13px;
+}
+
+.header9{
+    width: 500px;
+    height: 100px;
+    background: white;
+}
+
+.header10{
+ width: 849px;
+    height: 100px;
+    background: white;
+    margin-left: 500px;
+    margin-top: -100px;
+}
+
+.header10 img{
+    margin-left: 23px;
+    margin-top: 13px;
+    width: 54px;
+    height: 29px;
+}
